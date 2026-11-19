@@ -45,3 +45,10 @@ Este es un _**ejemplo de combinación**_
   * Io
 * Saturno
   * Titán
+
+# Ejemplo de una checklist: Obtener el pasaporte
+
+- [ ] Sacar la cita
+- [ ] Pagar los derechos
+- [ ] Asistir a la cita y tomarse la foto
+- [ ] Esperar a que salga el pasaporte
