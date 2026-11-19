@@ -48,7 +48,7 @@ Este es un _**ejemplo de combinación**_
 
 # Ejemplo de una checklist: Obtener el pasaporte
 
-- [ ] Sacar la cita
-- [ ] Pagar los derechos
-- [ ] Asistir a la cita y tomarse la foto
+- [X] Sacar la cita
+- [X] Pagar los derechos
+- [X] Asistir a la cita y tomarse la foto
 - [ ] Esperar a que salga el pasaporte
