@@ -80,3 +80,6 @@ Remove-Item -Recurse hola.txt
  0 | 1 | 1
  0 | 0 | 0
  
+# Ejemplos de emojis
+
+:+1: :octocat: :grin: :metal: :camel:
